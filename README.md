@@ -1,1 +1,2 @@
-# EDA_Prime
+# EDA Amazon Prime Video Content
+This project analyzes Amazon Prime Video's content library to uncover insights on content diversity, genre distribution, and trends over time. By examining over 9,000 titles and 124,000 credits, the analysis identifies key patterns in popular genres, content growth, and ratings. Based on these findings, actionable recommendations are provided to optimize content strategy, enhance user engagement, and guide marketing efforts for business growth.
